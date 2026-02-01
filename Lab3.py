@@ -38,4 +38,4 @@ def hangman_word(secret_word, maximum_attempts=6):
 
     print(f"Sorry, you've run out of attempts. The secret word was '{secret_word}'.")
 
-hangman_word("dinosaur")
+hangman_word("dinosaur, 6")
